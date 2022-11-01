@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(228, 229, 227);
+}  
+table {
+    background-color: rgb(187, 187, 187);
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    padding:20px;
+}
+ 
+
+input[type="button"] {
+    
+    padding: 10px 40px;
+    background-color: gradient(rgba(196, 167, 167, 0.2), #e333);
+    color: rgb(28, 27, 27);
+    font-size: 24px;
+    font-weight: bold;
+    border: 2px solid #f2f2f2;
+    border-radius: 20px;
+    box-shadow: 1.5px 1px 6px gray;
+
+}
+
+
+input[type="text"] {
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid black;
+}
